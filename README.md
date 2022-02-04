@@ -37,7 +37,7 @@
 <br />
 ### ⚡ GitHub Stats:
 
-[![IzArshia's GitHub stats](https://github-readme-stats.vercel.app/api?username=IzArshia&&show_icons=true&title_color=ff0000&icon_color=f02711&text_color=ffffff&bg_color=363636)](https://github.com/IzArshia/)
+[![IzArshia's GitHub stats](https://github-readme-stats.vercel.app/api?username=IzArshia&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=480aac)](https://github.com/IzArshia/)
 
 
 [IzWeb]: https://izarshia.ir/
