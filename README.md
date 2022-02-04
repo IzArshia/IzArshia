@@ -34,11 +34,11 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][IzWeb]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][IzWeb]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][IzWeb]
-
-
+<br />
+### ⚡ GitHub Stats:
 
 [![IzArshia's GitHub stats](https://github-readme-stats.vercel.app/api?username=IzArshia&&show_icons=true&title_color=ff0000&icon_color=f02711&text_color=ffffff&bg_color=363636)](https://github.com/IzArshia/)
--
+
 
 [IzWeb]: https://izarshia.ir/
 [website]: https://izarshia.ir/
