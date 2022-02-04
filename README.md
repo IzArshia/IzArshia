@@ -17,6 +17,14 @@
 [<img align="left" alt="izarshia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="izarshia | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/steam.svg" />][steam]
 
+
+
+
+
+[![IzArshia's GitHub stats](https://github-readme-stats.vercel.app/api?username=IzArshia&&show_icons=true&title_color=ff0000&icon_color=f02711&text_color=ffffff&bg_color=363636)](https://github.com/IzArshia/)
+
+
+
 <br />
 
 
