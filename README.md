@@ -1,6 +1,6 @@
 [![Header](https://s6.uupload.ir/files/izbanner_ndk0.jpg "Header")](https://izarshia.ir/)
 
-### Hi Guys ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+### Hi Guys ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 [![Website](https://img.shields.io/website?label=IzArshia.ir&style=for-the-badge&url=https://izarshia.ir)](https://izarshia.ir)
 [![Instagram](https://img.shields.io/badge/Iz.Arshia-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iz.arshia)
 [![Steam](https://img.shields.io/badge/Iz%20Arshia-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/izarshia) 
