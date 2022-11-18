@@ -45,6 +45,6 @@
 [IzWeb]: https://izarshia.ir/
 [website]: https://izarshia.ir/
 [twitter]: https://twitter.com/IzArshia
-[youtube]: https://www.youtube.com/channel/UCl6zYzVa2L-ga2e4UEsAE-Q
+[youtube]: https://www.youtube.com/@izarshia
 [instagram]: https://www.instagram.com/iz.arshia
 [steam]: https://steamcommunity.com/id/izarshia
